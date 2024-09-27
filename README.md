@@ -13,7 +13,7 @@ Make sure you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/cocktail-app.git
+   git clone https://github.com/borrison-s/Cocktail-App.git
    cd cocktail-app
 
 2. **Install dependencies:**
